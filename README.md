@@ -12,6 +12,5 @@ Future potential improvements to the application are many and include improving 
 2. Further instructions for building and running the application can be found here: <br><br>
     https://learn.snhu.edu/content/enforced/793164-CS-230-X6333-OL-TRAD-UG.21EW6/Course%20Documents/CS%20230%20Dropwizard%20Hello%20World%20Tutorial.pdf?_&d2lSessionVal=FNJQBDKYHKdlkBVbDtcv3wy1a&ou=793164
     
-Happy Hacking, 
 
 ~Gino
